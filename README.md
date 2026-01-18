@@ -1,9 +1,12 @@
 # Car Sales Dashboard
-![Dashboard Overview](dashboard-overview.png)
-![Filtered View](filtered-view.png)
-![KPI View](kpi-view.png)
+
 ## Project Overview
 This Power BI dashboard was created as part of a guided training session with Exodus Experts. The project involved following a step-by-step demonstration to build a car sales dashboard, with the goal of learning Power BI reporting techniques and best practices.
+![Dashboard Overview](dashboard-overview.png)
+
+![Filtered View](filtered-view.png)
+
+![KPI View](kpi-view.png)
 
 ## Learning Objectives
 - Understand Power BI dashboard structure
